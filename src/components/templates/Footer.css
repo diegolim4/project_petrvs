@@ -1,0 +1,16 @@
+footer{
+    background: linear-gradient( to right, rgb(32, 32, 34), rgb(12, 12, 17));
+    padding: 1% 2%;
+    box-shadow: 0 1px 9px 0 rgba(0, 0, 0, .5);
+    position:fixed;
+    bottom: 0;
+    width: 100%;    
+}
+
+.foot{
+    color: rgb(0, 255, 42);
+    font-size: 1em;
+    text-shadow: 2px;
+    text-shadow: 0 0 .1em  rgba(0, 0, 0, 0.541);
+    text-align: center; 
+}
