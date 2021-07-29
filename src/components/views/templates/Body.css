@@ -1,0 +1,9 @@
+.body {
+    text-align: center;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.226);     
+}
+
+body .body h2{
+    text-align: start;
+    padding: 2%;
+}
